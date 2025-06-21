@@ -1,4 +1,4 @@
-## Terms and Conditions
+#### Terms and Conditions
 
 **Effective Date:** June 21, 2025  
 **App Name:** Takko  
@@ -6,7 +6,7 @@
 
 Welcome to **Takko**, a mobile productivity app designed to help you manage your tasks and to-do lists efficiently. By using the app, you agree to the following Terms and Conditions.
 
-## 1. Acceptance of Terms
+### 1. Acceptance of Terms
 
 By downloading, installing, or using Takko, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the app.
 
