@@ -1,4 +1,4 @@
-# Terms and Conditions
+## Terms and Conditions
 
 **Effective Date:** June 21, 2025  
 **App Name:** Takko  
